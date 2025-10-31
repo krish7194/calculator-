@@ -15,7 +15,7 @@ def divide(x, y):
     
 def calculator():
     print("="*40)
-    print("🧠 SIMPLE CALCULATOR 🧠")
+    print("SIMPLE CALCULATOR")
     print("="*40)
     print("Select operation:")
     print("1. Addition (+)")
